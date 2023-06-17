@@ -1,0 +1,20 @@
+/* this is an externel css */
+
+h1{
+    color: steelblue;
+}
+small{
+    display: block;   }
+    h3{
+    border: 9px solid gray;
+        display: inline-block;
+    }
+div{
+   
+    width: 320px;
+    border: 10px solid greenyellow;
+    padding: 5px 15px 5px 15px; 
+    text-align: justify;
+
+    /* 1 ta dile l/R , 2 ta dile  first er ta T/b 2nd ta L/R , ar 3 ta dile 1st er ta T 2nd ta L/R ar 3rd ta B, ar 4 ta dle ghorir katar dike */
+ }          
